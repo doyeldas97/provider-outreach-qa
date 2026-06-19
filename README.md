@@ -35,7 +35,7 @@ provider-outreach-qa/
 
 1. Clone the repo:
    ```
-   git clone https://github.com/doyeldas97/provider-outreach-qa.git
+   git clone https://github.com/doyel-das/provider-outreach-qa.git
    cd provider-outreach-qa
    ```
 
