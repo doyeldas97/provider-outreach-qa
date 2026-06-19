@@ -1,5 +1,5 @@
 # Provider Outreach QA
-
+**[→ Live interactive demo](https://doyel-das.github.io/provider-outreach-qa)**
 ## What this is
 
 This is a QA tool for AI-drafted support ticket responses at a mental healthcare platform. The platform connects patients, therapists, and insurance payors. AI drafts responses to incoming support tickets before they reach end users. This tool automatically scores those drafts on tone, clarity, and accuracy, flags safety concerns where a response fails to appropriately handle signs of patient distress, audits whether the suggested routing action was correct, and surfaces flagged tickets for human review. Built as a portfolio project to demonstrate AI operations and workflow automation thinking.
